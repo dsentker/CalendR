@@ -1,8 +1,8 @@
 {
-    "name": "yohang/calendr",
+    "name": "dsentker/calendr",
     "description": "Object Oriented calendar management",
     "keywords": ["date", "calendar", "events"],
-    "homepage": "https://github.com/yohang/CalendR",
+    "homepage": "https://github.com/dsentker/CalendR",
     "type": "library",
     "license": "MIT",
 
@@ -11,6 +11,10 @@
             "name": "Yohan GIARELLI",
             "email": "yohan@giarel.li",
             "homepage": "http://yohan.giarel.li"
+        },
+        {
+            "name": "Daniel Sentker",
+            "email": "tracid2008@gmail.com"
         }
     ],
 
